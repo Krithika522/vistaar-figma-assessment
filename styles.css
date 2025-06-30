@@ -80,6 +80,7 @@ footer{
        font-weight: 400;
        font-size: 1.625rem;;
        margin-top: 60px;
+       margin-right: 30px;
        display: flex;
         justify-content: start;
         align-items: center;
