@@ -76,15 +76,15 @@ footer{
     opacity: 0.6;
 }
 .grouped-footer-links{
-    width: fit-content;
+    width: 60vw;
        font-weight: 400;
        font-size: 1.625rem;;
-       margin-top: 60px;
-       margin-right: 30px;
+       margin: 0pc 908px;
        display: flex;
-        justify-content: start;
+        justify-content: left;
         align-items: center;
-        gap: 50px;
+        
+        gap: 18px;
 }
 .grouped-footer-links a:hover{
     text-decoration: underline;
